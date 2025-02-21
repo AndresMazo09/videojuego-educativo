@@ -12,11 +12,12 @@ Tú eres un/a viajero que ha sido elegido/a para una misión
 deberás enfrentarse a desafíos cada vez más complejos mientras aprende y enseña a
 los jugadores conceptos clave de Historia.
 
-El jugador podrá [MECÁNICA 1], para avanzar deberá [MECÁNICA 2] y los desafíos
-incluirán [TIPO DE DESAFÍOS]
+El jugador podrá estar en un mundo abierto ambientado en la epoca del nivel que este realizando,
+para avanzar deberá cumplir con misiones y los desafíos
+incluirán encontrar objetos, derrotar personajes y pasar examenes con preguntas a base del nivel realizado.
 
-Los estudiantes avanzarán mediante [SISTEMA]. Cada nivel representa [CONCEPTO
-EDUCATIVO], y los jugadores recibirán retroalimentación inmediata sobre su
+Los estudiantes avanzarán mediante trivias finales con preguntas e identificacion de personajes carteristicos de la epoca.
+Cada nivel representa el momento historico en el que este el jugador, y los jugadores recibirán retroalimentación inmediata sobre su
 desempeño, lo que les permitirá identificar áreas de mejora y celebrar sus logros.
 
 Los jugadores aprenderán [CONCEPTO 1] mediante [ACTIVIDAD 1]. Se reforzará
